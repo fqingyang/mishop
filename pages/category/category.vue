@@ -50,7 +50,7 @@
 				this.cate.push({
 					name: "分类" + i
 				})
-			}
+			}//
 		},
 
 		methods: {

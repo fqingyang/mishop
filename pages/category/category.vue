@@ -37,7 +37,7 @@
 				cate: [],
 				// 当前选中的项目
 				activeIndex: 0,
-				test:""
+				test:"",
 			}
 		},
 		onLoad() {
